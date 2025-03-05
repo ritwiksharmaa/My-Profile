@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ritwik Sharma</h1>
 <h3 align="center">Data wizard turning raw numbers into actionable insights.</h3>
 
+- 🌱 I’m currently learning **Advance Data Science and Machine Learning**
+
 - 📝 I regularly write articles on [Data Science and its role in the upcoming tech space](Data Science and its role in the upcoming tech space)
 
 - 📫 How to reach me **ritwiksharma1412@gmail.com**
